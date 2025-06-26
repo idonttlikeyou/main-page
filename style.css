@@ -1,0 +1,12 @@
+.centered {
+  text-align: center;
+}
+
+body {
+  background-color: #00ff22;
+}
+
+button {
+  background: linear-gradient(to left, #ffaa00, #ff0000);
+  border-radius: 10px;
+}
